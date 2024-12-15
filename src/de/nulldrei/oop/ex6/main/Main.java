@@ -1,8 +1,8 @@
-package de.nulldrei.oop.ex4.main;
+package de.nulldrei.oop.ex6.main;
 
 
-import de.nulldrei.oop.ex4.gui.baelle.BaelleControl;
-import de.nulldrei.oop.ex4.gui.sportartikel.SportartikelControl;
+import de.nulldrei.oop.ex6.gui.baelle.BaelleControl;
+import de.nulldrei.oop.ex6.gui.sportartikel.SportartikelControl;
 import javafx.application.Application;
 import javafx.stage.Stage;
 
